@@ -1,0 +1,18 @@
+{
+  "bmiCalculator": "Bmi Calculator",
+"male":"Male",
+"female":"Female",
+  "height": "Height",
+  "cm": "cm",
+  "weight": "Weight",
+  "kg": "Kg",
+  "calculateBmi": "Calculate BMI",
+  "bmiResult": "Bmi Result",
+  "your_bmi": "Your bmi is ",
+  "you_are": "You are",
+  "under": "UnderWeight",
+  "normal": "Normal",
+  "over": "OverWeight",
+  "obese": "Obese",
+  "ok": "Ok"
+}
